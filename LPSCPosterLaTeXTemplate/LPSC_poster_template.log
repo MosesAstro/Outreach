@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  9 OCT 2014 10:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  9 OCT 2014 10:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -340,11 +340,11 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 19.70294pt on input line 176.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 34.03839pt on input line 240.
+(Font)              scaled to size 34.03839pt on input line 242.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 23.63593pt on input line 241.
+(Font)              scaled to size 23.63593pt on input line 243.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 19.70294pt on input line 242.
+(Font)              scaled to size 19.70294pt on input line 244.
 (./LPSC_poster_template.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 10.
@@ -354,19 +354,19 @@ File: PSP_006985_2020_RED_NOMAP_crop2012_2.png Graphic file (type png)
 
 <use PSP_006985_2020_RED_NOMAP_crop2012_2.png>
 Package pdftex.def Info: PSP_006985_2020_RED_NOMAP_crop2012_2.png used on input
- line 269.
+ line 271.
 (pdftex.def)             Requested size: 825.91383pt x 506.96426pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 274.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 276.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 13.67995pt on input line 274.
+(Font)              scaled to size 13.67995pt on input line 276.
 
 <PSP_006985_2020_RED_NOMAP_2172009_31759.jpg, id=4, 2531.4575pt x 623.32875pt>
 File: PSP_006985_2020_RED_NOMAP_2172009_31759.jpg Graphic file (type jpg)
 
 <use PSP_006985_2020_RED_NOMAP_2172009_31759.jpg>
 Package pdftex.def Info: PSP_006985_2020_RED_NOMAP_2172009_31759.jpg used on in
-put line 284.
+put line 286.
 (pdftex.def)             Requested size: 2777.77351pt x 684.02782pt.
 
 <Milazzo_Columnar_Jointing_grand_falls_grey_crop.jpg, id=5, 364.2408pt x 223.55
@@ -375,38 +375,38 @@ File: Milazzo_Columnar_Jointing_grand_falls_grey_crop.jpg Graphic file (type jp
 g)
  <use Milazzo_Columnar_Jointing_grand_falls_grey_crop.jpg>
 Package pdftex.def Info: Milazzo_Columnar_Jointing_grand_falls_grey_crop.jpg us
-ed on input line 298.
+ed on input line 300.
 (pdftex.def)             Requested size: 825.91383pt x 506.9822pt.
 
 <MSH_1982.jpg, id=6, 462.528pt x 312.6882pt>
 File: MSH_1982.jpg Graphic file (type jpg)
  <use MSH_1982.jpg>
-Package pdftex.def Info: MSH_1982.jpg used on input line 311.
+Package pdftex.def Info: MSH_1982.jpg used on input line 313.
 (pdftex.def)             Requested size: 825.91383pt x 558.38197pt.
 
 <FigA3.pdf, id=7, 794.97pt x 614.295pt>
 File: FigA3.pdf Graphic file (type pdf)
  <use FigA3.pdf>
-Package pdftex.def Info: FigA3.pdf used on input line 323.
+Package pdftex.def Info: FigA3.pdf used on input line 325.
 (pdftex.def)             Requested size: 825.91383pt x 638.22371pt.
 
 <Coffee.jpg, id=8, 1525.7pt x 1150.2975pt>
 File: Coffee.jpg Graphic file (type jpg)
  <use Coffee.jpg>
-Package pdftex.def Info: Coffee.jpg used on input line 336.
+Package pdftex.def Info: Coffee.jpg used on input line 338.
 (pdftex.def)             Requested size: 825.91383pt x 622.696pt.
 
 <vg1_Io.png, id=9, 762.85pt x 575.14874pt>
 File: vg1_Io.png Graphic file (type png)
  <use vg1_Io.png>
-Package pdftex.def Info: vg1_Io.png used on input line 349.
+Package pdftex.def Info: vg1_Io.png used on input line 351.
 (pdftex.def)             Requested size: 825.91383pt x 622.7223pt.
 
 <Galilean_sats_interiors.jpg, id=10, 1983.41pt x 1495.5875pt>
 File: Galilean_sats_interiors.jpg Graphic file (type jpg)
 
 <use Galilean_sats_interiors.jpg>
-Package pdftex.def Info: Galilean_sats_interiors.jpg used on input line 363.
+Package pdftex.def Info: Galilean_sats_interiors.jpg used on input line 365.
 (pdftex.def)             Requested size: 825.91383pt x 622.77959pt.
  [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -420,7 +420,7 @@ jpg>] (./LPSC_poster_template.aux) )
 Here is how much of TeX's memory you used:
  3861 strings out of 493117
  56290 string characters out of 6135433
- 138354 words of memory out of 5000000
+ 139354 words of memory out of 5000000
  7232 multiletter control sequences out of 15000+600000
  46671 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -432,7 +432,7 @@ nts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-sup
 er/sftt2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uh
 vb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pf
 b></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on LPSC_poster_template.pdf (1 page, 3097039 bytes).
+Output written on LPSC_poster_template.pdf (1 page, 3097164 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
